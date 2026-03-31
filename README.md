@@ -101,7 +101,7 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**VIVEK SINGH BHANDARI**
 GitHub: https://github.com/viveksinghbhandari12
 
 ---
