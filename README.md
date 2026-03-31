@@ -27,7 +27,7 @@ A simple and powerful Password Generator built using React that helps users crea
 
 ## 📸 Preview
 
-![Password Generator Screenshot](./preview.png)
+![Password Generator Screenshot](Screenshot.png)
 
 ---
 
