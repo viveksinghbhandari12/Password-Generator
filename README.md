@@ -1,16 +1,108 @@
-# React + Vite
+# 🔐 Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and powerful Password Generator built using React that helps users create strong and secure passwords instantly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* Generate random and secure passwords
+* Adjustable password length
+* Include/exclude:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  * Numbers 🔢
+  * Special Characters 🔣
+* One-click copy to clipboard
+* Responsive and clean UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* React (Hooks: useState, useCallback, useEffect)
+* JavaScript (ES6+)
+* CSS / Tailwind CSS
+
+---
+
+## 📸 Preview
+
+![Password Generator Screenshot](./preview.png)
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/password-generator.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd password-generator
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Run the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 💡 How It Works
+
+* Users select the desired password length
+* Choose whether to include numbers and special characters
+* The app generates a random password based on selected options
+* Users can copy the password instantly
+
+---
+
+## 🎯 Purpose
+
+This project was built to:
+
+* Practice React hooks and state management
+* Improve JavaScript logic-building skills
+* Understand real-world UI functionality
+
+---
+
+## 📌 Future Improvements
+
+* Add password strength indicator
+* Save password history
+* Add dark mode 🌙
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**
+GitHub: https://github.com/your-username
+
+---
+
